@@ -17,6 +17,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 测试通过
+ */
 public class PullToRefreshActivity extends ActionBarActivity {
 
     public static final int REFRESH_DELAY = 2000;
